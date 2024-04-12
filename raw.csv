@@ -1,4 +1,4 @@
-ID,SMILES,Expr,DCW,Calc,Expr-Calc,Set,DCW,Calc,Expr-Calc,Set,DCW,Calc,Expr-Calc,Set
+ID,SMILES,Expr,DCW.1,Calc.1,Expr-Calc.1,Set.1,DCW.2,Calc.2,Expr-Calc.2,Set.2,DCW.3,Calc.3,Expr-Calc.3,Set.3
 1,CSP(=O)(c1ccccc1)c1ccccc1,2.34,39.0137,2.5431,-0.2031,Tr,30.28552,2.6612,-0.3212,ST,34.79287,2.3165,0.0235,Ca
 2,CCSP(=O)(c1ccccc1)c1ccccc1,2.69,40.13724,2.8413,-0.1513,Va,31.2953,2.9406,-0.2506,Va,36.00961,2.687,0.003,Va
 3,CCCSP(=O)(c1ccccc1)c1ccccc1,3.08,40.66802,2.9822,0.0978,Tr,31.8319,3.0891,-0.0091,Ca,36.53859,2.848,0.232,ST
